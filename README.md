@@ -488,7 +488,7 @@ Please ensure:
 
 - Email: pariselikitha@gmail.com
 - LinkedIn: [linkedin.com/in/likitha-parise-258b5b244](https://www.linkedin.com/in/likitha-parise-258b5b244/)
-- GitHub: [@yourusername](https://github.com/LikithaParise)
+- GitHub: [@LikithaParise](https://github.com/LikithaParise)
 
-**Project Link:** [https://github.com/yourusername/book-a-doctor](https://github.com/LikithaParise/book-a-doctor)
+**Project Link:** [https://github.com/LikithaParise/book-a-doctor](https://github.com/LikithaParise/book-a-doctor)
 
